@@ -33,5 +33,5 @@ This project implements a control system for a simulated slider moving across a 
 Marko Jovanovic
 
 ## Acknowledgements
-This project was completed by Marko Jovanovuc as part of MSE 483 course taught by Dr. Mehrdad Moallem
+This project was completed by Marko Jovanovic as part of MSE 483 course taught by Dr. Mehrdad Moallem
 
